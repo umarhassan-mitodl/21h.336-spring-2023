@@ -8,8 +8,7 @@ file_type: image/jpeg
 image_metadata:
   caption: "*The Emperor Augustus Rebuking Cornelius Cinna for His Treachery*, an\
     \ 1814 painting by \xC9tienne-Jean Del\xE9cluze. (This image is in the public\
-    \ domain. Source: {{% resource_link \"f377d905-db2e-4fe2-866d-549550a62b15\" \"\
-    Wikimedia Commons\" %}}.)"
+    \ domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Emperor_Augustus_Rebuking_Cornelius_Cinna_for_His_Treachery.jpg).)"
   credit: ''
   image-alt: This painting depicts Emperor Augustus, seated and wearing a white and
     red toga, pointing at a man seated across from him.

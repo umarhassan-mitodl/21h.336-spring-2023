@@ -1,0 +1,15 @@
+---
+content_type: page
+description: In this page, Prof. William Broadhead describes the rationale behind
+  the course's focus on the reigns of Augustus and Nero
+draft: false
+title: Why Augustus and Nero?
+uid: c189d12b-431a-4fb3-ae6d-44e72bc02120
+---
+**OCW:** The course focuses on the reigns of the first few emperors, in the years when the memory of the Roman republic was still fresh. What’s interesting about that particular period or those particular emperors, from a present-day perspective?
+
+**William Broadhead:** I would point to two aspects of Augustus and Nero that are particularly interesting from a present-day perspective, one that is perennially applicable and one that is more specific to life in an early 21st century republic like the United States in 2025.
+
+The first is that scholarly and popular judgments of Augustus and Nero are always evolving. As is the case with most major historical figures, it is often said that each generation finds its own Augustus or Nero. Was Augustus a benevolent monarch or a tyrant in disguise? Scholars relying on exactly the same evidence have leaned one way or the other depending on the kinds of questions they ask of that evidence and on the relative weight they give to one type of evidence over another. For the students in this class, I hope the realization that scholars are perennially creating and re-creating what might pass as "the orthodox view" of Augustus and Nero might empower them—the students—to develop their own independent interpretations.
+
+The second reason I think students find Augustus and Nero interesting relates to their historical roles as autocrats within a theoretically still existing republican constitution. Although most textbooks will tell you that the Roman republic "fell" in the later first century BCE and was replaced by the imperial monarchy of Augustus and his successors, Augustus himself actually claimed to have restored the republic; and even Augustus's most confidently autocratic successors never formally abolished the republican constitution. Augustus succeeded in establishing an effectively all-powerful military autocracy *within* a carefully preserved (superficially or substantively remains a point of debate) republican system. In the early 21st century, it has been widely observed that the emergence of autocratic leaders in modern republics (what are usually called modern liberal democracies) has tended to come about not through abrupt interruptions like a revolution or a military coup but rather through the gradual concentration of power and weakening of constitutional checks by voters and legislators themselves. Against such a present-day backdrop, the historical examples of Augustus and Nero take on a newly immediate resonance. It is both easier and more interesting for students to appreciate and explore the comparison.

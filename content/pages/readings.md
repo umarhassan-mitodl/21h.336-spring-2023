@@ -19,13 +19,13 @@ uid: d4810806-a858-4c41-b81c-19f56df4c68c
 
 **Session 2: The Augustan Principate**
 
-- W. Eck (2008), "Augustus," in A. Barrett (ed.), *Lives of the Caesars*, pp. 7–37. Wiley-Blackwell. ISBN: ‎9781405127547. \[Preview with {{% resource_link "eacdb48c-176a-4ca8-ad5e-1d2a42d6c27e" "Google Books" %}}\]
-- B. Levick (2010), "Introduction: The Enigma," in *Augustus: Image and Substance*, pp. 1–22. Routledge. ISBN: ‎9780582894211. \[Preview with {{% resource_link "29e55163-a61e-46c2-96d4-a0da114e602c" "Google Books" %}}\]
+- W. Eck (2008), "Augustus," in A. Barrett (ed.), *Lives of the Caesars*, pp. 7–37. Wiley-Blackwell. ISBN: ‎9781405127547. \[Preview with [Google Books](https://www.google.com/books/edition/Lives_of_the_Caesars/8CE3a6mzpAMC?hl=en&gbpv=1)\]
+- B. Levick (2010), "Introduction: The Enigma," in *Augustus: Image and Substance*, pp. 1–22. Routledge. ISBN: ‎9780582894211. \[Preview with [Google Books](https://www.google.com/books/edition/Augustus/K7HpAgAAQBAJ?hl=en&gbpv=1)\]
 
 **Session 3: Augustus in His Own Words**
 
-- M.G.L. Cooley, ed. (2023), "Res Gestae Divi Augusti (The Achievements of the Deified Augustus)," in *The Age of Augustus*. 3<sup>rd</sup> ed. Translated by B.W.J.G. Wilson. Cambridge University Press. ISBN: 9781009382892. \[Preview with {{% resource_link "15a842b7-bcdf-489f-9889-4be75496123b" "Google Books" %}}\]
-- J. Elsner (1996), "Inventing Imperium: Texts and the Propaganda of Monuments in Augustan Rome," in J. Elsner (ed.), *Art and Text in Roman Culture*, pp. 32–53. Cambridge University Press. ISBN: 9780521430302. \[Preview with {{% resource_link "56aef999-91d3-4c52-8619-a6d0928e96bb" "Google Books" %}}\]
+- M.G.L. Cooley, ed. (2023), "Res Gestae Divi Augusti (The Achievements of the Deified Augustus)," in *The Age of Augustus*. 3<sup>rd</sup> ed. Translated by B.W.J.G. Wilson. Cambridge University Press. ISBN: 9781009382892. \[Preview with [Google Books](https://www.google.com/books/edition/_/uea-EAAAQBAJ?hl=en&gbpv=1)\]
+- J. Elsner (1996), "Inventing Imperium: Texts and the Propaganda of Monuments in Augustan Rome," in J. Elsner (ed.), *Art and Text in Roman Culture*, pp. 32–53. Cambridge University Press. ISBN: 9780521430302. \[Preview with [Google Books](https://www.google.com/books/edition/Art_and_Text_in_Roman_Culture/Y6BOAAAAIAAJ?hl=en&gbpv=1)\]
 
 **Session 4: Augustus of Prima Porta**
 
@@ -35,7 +35,7 @@ uid: d4810806-a858-4c41-b81c-19f56df4c68c
 **Session 5: Virgil’s** ***Aeneid*** **I**
 
 - K.W. Gransden (1990), *Virgil: The Aeneid*, pp. 36–42 (a brief summary of the poem). Cambridge University Press. ISBN: 9780521323291.
-- \[AE\] Book 1.1–367 and Book 6 (pp. 47–57 and 182–212). \[Preview with {{% resource_link "739ee821-7514-44ff-b90e-a3dd1879c04c" "Google Books" %}}\]
+- \[AE\] Book 1.1–367 and Book 6 (pp. 47–57 and 182–212). \[Preview with [Google Books](https://www.google.com/books/edition/The_Aeneid/KpJPEAAAQBAJ?hl=en&gbpv=1)\]
 - {{% resource_link "598e6ce7-ed41-4767-adbe-7cb367b5eedb" "*Aeneid*, Book 6: Virgil's Underworld handout (PDF)" %}}
 
 **Session 6: Virgil’s** ***Aeneid*** **II**
@@ -60,8 +60,8 @@ uid: d4810806-a858-4c41-b81c-19f56df4c68c
 
 **Session 10: Historians of Augustus**
 
-- Velleius Paterculus, {{% resource_link "888fc3b7-bfb9-4d42-ae5e-137778f8f1b8" "*History of Rome*" %}}, 2.59–93.
-- \[A\] 1.1–15 (pp. 1–11). \[Preview with {{% resource_link "a46839df-c341-4123-b675-a7332cba997b" "Google Books" %}}\]
+- Velleius Paterculus, [*History of Rome*](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2C*.html), 2.59–93.
+- \[A\] 1.1–15 (pp. 1–11). \[Preview with [Google Books](https://www.google.com/books/edition/The_Annals/f4TuDWNmtFgC?hl=en&gbpv=1)\]
 
 **Session 11: Cassius Dio: The Case for Monarchy**
 
@@ -74,12 +74,12 @@ uid: d4810806-a858-4c41-b81c-19f56df4c68c
 **Session 13: The Afterlife of Augustus**
 
 - K. Scott (1931–2), "Mussolini and the Roman Empire," *Classical Journal* 27, pp. 645–657.
-- R. Syme (2002), Preface, Chapter 1, and Chapter 30 in *The Roman Revolution.* Oxford University Press. ISBN: ‎9780192803207. \[Preview with {{% resource_link "b74c5f9f-3668-47e8-84e2-82aabb85e7dd" "Google Books" %}}\]
+- R. Syme (2002), Preface, Chapter 1, and Chapter 30 in *The Roman Revolution.* Oxford University Press. ISBN: ‎9780192803207. \[Preview with [Google Books](https://www.google.com/books/edition/The_Roman_Revolution/szDRmf76K54C?hl=en&gbpv=1)\]
 - {{% resource_link "4e48aff1-e420-4820-94ca-2d7546ffa86c" "\"Rival Augustuses: Mussolini and Syme\" handout (PDF)" %}}
 
 *Optional*
 
-- R. Syme (2002), Chapter 11 and Chapter 33 in *The Roman Revolution.* Oxford University Press. ISBN: ‎9780192803207. \[Preview with {{% resource_link "b74c5f9f-3668-47e8-84e2-82aabb85e7dd" "Google Books" %}}\]
+- R. Syme (2002), Chapter 11 and Chapter 33 in *The Roman Revolution.* Oxford University Press. ISBN: ‎9780192803207. \[Preview with [Google Books](https://www.google.com/books/edition/The_Roman_Revolution/szDRmf76K54C?hl=en&gbpv=1)\]
 
 **Session 14: Theories of History**
 
@@ -133,7 +133,7 @@ uid: d4810806-a858-4c41-b81c-19f56df4c68c
 
 **Session 23: Big Screen Nero:** ***Quo Vadis?***
 
-- M.S. Cyrino (2005), *Big Screen Rome*, pp. 7–33. Wiley-Blackwell. ISBN: ‎9781405116831. \[Preview with {{% resource_link "8d19e058-df21-4e36-b3d3-81ec4fc69919" "Google Books" %}}\]
+- M.S. Cyrino (2005), *Big Screen Rome*, pp. 7–33. Wiley-Blackwell. ISBN: ‎9781405116831. \[Preview with [Google Books](https://www.google.com/books/edition/Big_Screen_Rome/gbFQfkLKFFcC?hl=en&gbpv=1)\]
 
 **Session 24: Conclusion**
 

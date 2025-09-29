@@ -1,0 +1,15 @@
+---
+content_type: page
+description: In this page, Prof. William Broadhead discusses the portrayals of ancient
+  Rome in movies and television, particularly in the HBO/BBC/RAI series "Rome."
+draft: false
+title: Rome in TV and Movies
+uid: a04352d1-8894-41af-b829-04adb78bcdbf
+---
+**OCW:** What do Hollywood films and TV shows get consistently wrong about the Roman empire? What do they get surprisingly right?
+
+**William Broadhead:** I would put the question differently and ask not what they get right or what they get wrong, but what they "get interesting."
+
+So, for example, the HBO/BBC/RAI *Rome* series created by John Milius, William MacDonald, and Bruno Heller includes a depiction of Atia, the niece of Julius Caesar and mother of Augustus Caesar (played by Polly Walker), that I've always found as thought-provoking as it is entertaining, even though we know next to nothing about the historical Atia. All the textbooks will tell you that one of the historical concepts most essential to any understanding of the political transformation of Rome from a republic to an imperial monarchy is the pervasive "aristocratic competition" between the elite men who fought with each other for the scarce resource of electoral and military success. The *Rome* series does an excellent job imagining a similarly intense aristocratic competition between the women of the great houses of the Republic. The rivalry between Atia and Servilia, the mother of Brutus, is based on no surviving evidence from antiquity, but constitutes one of the most compelling storylines in the *Rome* series*.*
+
+My favorite scene, which I always show in this class, is the reading of Julius Caesar's will. Caesar has just been assassinated by the band of conspirators led by Brutus and Cassius, acting on the advice and with the full-throated support of Servilia. The conspirators' faction appears to be in complete control of the city of Rome. Fearing for their lives, Atia, her son Octavius (the future Augustus), and her daughter Octavia, along with Marc Antony, are keen to flee the city; but Caesar's widow, Calpurnia, insists they first sit for the reading of Caesar's will. To everyone's surprise—this detail is historical—the will announces the adoption of the then 19-year-old Octavius as Caesar's heir. Octavius almost instantaneously calculates the political implications of his inheritance and announces to the family that they should stay in Rome, despite the danger, and assert the legitimacy of the will. Atia and Antony dismiss his argument as legalistic naivety ("You strange, brave, pompous little boy," Atia says!) and head for the door. At which point Octavius, demonstrating the full range of his precocious political acumen, changes Atia's mind with the following wonderful line: "If the will stands—and it might—you are mother to the richest man in Rome. If the will is broken, Servilia has that honor."

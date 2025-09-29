@@ -1,0 +1,100 @@
+leftnav:
+- identifier: 43ff618c-15af-43a8-afdf-a390e32cda9a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4cb28d79-6fc0-4e26-b0f5-f6ddca79c2d4
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: d4810806-a858-4c41-b81c-19f56df4c68c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 334a3d82-782a-4b17-baae-9b2343163112
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 50
+- identifier: 22a27f6c-4c73-4ebb-8d09-ff41ec5d8427
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 6847e1fd-9dd4-4e6c-859d-f8532df732de
+  name: How the Course Has Evolved
+  pageRef: /pages/how-the-course-has-evolved
+  parent: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
+  weight: 10
+- identifier: c189d12b-431a-4fb3-ae6d-44e72bc02120
+  name: Why Augustus and Nero?
+  pageRef: /pages/why-augustus-and-nero
+  parent: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
+  weight: 20
+- identifier: 477c71bd-0d94-48e5-a303-eca0d410443a
+  name: Texts as Subjective Rhetoric
+  pageRef: /pages/texts-as-subjective-rhetoric
+  parent: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
+  weight: 30
+- identifier: f21eca8c-8ff6-4dc4-91d5-992adfb829bb
+  name: The Museum Artifact Video Project
+  pageRef: /pages/the-museum-artifact-video-project
+  parent: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
+  weight: 40
+- identifier: a04352d1-8894-41af-b829-04adb78bcdbf
+  name: Rome in TV and Movies
+  pageRef: /pages/rome-in-tv-and-movies
+  parent: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
+  weight: 50
+- identifier: 4c3f6de0-a0dd-4e2e-95aa-67f00906cedf
+  name: Short Analytical Response Papers (SHARPs)
+  pageRef: /pages/short-analytical-response-papers
+  parent: 22a27f6c-4c73-4ebb-8d09-ff41ec5d8427
+  weight: 10
+- identifier: a6b6e797-c520-479d-9931-517b9a25d6cd
+  name: Museum Artifact Video Project
+  pageRef: /pages/museum-artifact-video-project
+  parent: 22a27f6c-4c73-4ebb-8d09-ff41ec5d8427
+  weight: 20
+- identifier: 67ef2948-bbe1-4e66-a2f5-1e80a2eade16
+  name: Final Paper
+  pageRef: /pages/final-paper
+  parent: 22a27f6c-4c73-4ebb-8d09-ff41ec5d8427
+  weight: 30
+- identifier: d148d6ce-7ba6-4009-9421-c405ca7c88fd
+  name: Guidelines and Specifications
+  pageRef: /pages/sharp-guidelines-and-specifications
+  parent: 4c3f6de0-a0dd-4e2e-95aa-67f00906cedf
+  weight: 10
+- identifier: 9ea7a6a1-621b-4f17-a533-0e0745928bf5
+  name: Option A
+  pageRef: /pages/option-a
+  parent: 4c3f6de0-a0dd-4e2e-95aa-67f00906cedf
+  weight: 20
+- identifier: 1549c6c4-12d0-4328-b372-64f38d8d1e8c
+  name: Option B
+  pageRef: /pages/option-b
+  parent: 4c3f6de0-a0dd-4e2e-95aa-67f00906cedf
+  weight: 30
+- identifier: e8080ee0-6a08-4840-884b-5d47ffc64b31
+  name: Option C
+  pageRef: /pages/option-c
+  parent: 4c3f6de0-a0dd-4e2e-95aa-67f00906cedf
+  weight: 40
+- identifier: ce2c4600-9a98-4649-aff5-509fd1487b9a
+  name: Option D
+  pageRef: /pages/option-d
+  parent: 4c3f6de0-a0dd-4e2e-95aa-67f00906cedf
+  weight: 50
+- identifier: b15e0aee-77d7-4389-b894-a6324c4eee76
+  name: Final Paper Topic Proposal and Outline
+  pageRef: /pages/topic-proposal-and-outline
+  parent: 67ef2948-bbe1-4e66-a2f5-1e80a2eade16
+  weight: 10
+- identifier: 117151c9-67a3-475c-a130-81dcea8e1141
+  name: Final Paper Specifications
+  pageRef: /pages/final-paper-specifications
+  parent: 67ef2948-bbe1-4e66-a2f5-1e80a2eade16
+  weight: 20

@@ -23,7 +23,7 @@ None
 
 ### Requirements Satisfied
 
-{{% resource_link "50e17f34-bfc0-4dcb-beb4-7ad528221110" "General Institute Requirement (GIR)" %}} in {{% resource_link "7ded3bb0-e439-4f9a-a4e1-7fc076c54655" "Humanities, Arts, and Social Sciences: Humanities (HASS-H)" %}}
+[General Institute Requirement (GIR)](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/) in [Humanities, Arts, and Social Sciences: Humanities (HASS-H)](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)
 
 ### Offered
 
