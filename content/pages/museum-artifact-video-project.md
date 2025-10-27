@@ -17,7 +17,7 @@ uid: a6b6e797-c520-479d-9931-517b9a25d6cd
 
 ### The Details
 
-- You should choose an artifact from the online collection of a reputable museum. Two excellent examples are the [British Museum](https://www.britishmuseum.org/) and the [Boston Museum of Fine Arts](https://www.mfa.org/).
+- You should choose an artifact from the online collection of a reputable museum. Two excellent examples are the {{% resource_link "9ff33cc8-4a01-4ae6-b17a-b6154e9207a5" "British Museum" %}} and the {{% resource_link "ed887583-6fa8-4556-a708-71ad55c61162" "Boston Museum of Fine Arts" %}}.
 - You may choose any kind of artifact you like.
     - As long as it is relevant to Augustus and/or Nero, your artifact can be anything: a statue, a coin, a piece of jewelry, a vase, a sarcophagus, whatever you like.
 - Check the “Artifact selections” discussion thread on our class site to make sure your prospective artifact has not already been claimed by one of your classmates; and then claim your artifact with a quick post to the same discussion thread.
