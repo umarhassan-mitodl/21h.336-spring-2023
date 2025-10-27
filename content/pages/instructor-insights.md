@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page provides information on how 21H.336 was taught.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 7eea52c1-cf9f-4555-a9c6-cb1ea3d83160
 ---
@@ -23,7 +23,7 @@ None
 
 ### Requirements Satisfied
 
-[General Institute Requirement (GIR)](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/) in [Humanities, Arts, and Social Sciences: Humanities (HASS-H)](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)
+{{% resource_link "194fb168-14c7-4b37-b326-6af42a54b5b9" "General Institute Requirement (GIR)" %}} in {{% resource_link "9c075add-53ce-42ab-9770-470a646c81bb" "Humanities, Arts, and Social Sciences: Humanities (HASS-H)" %}}
 
 ### Offered
 

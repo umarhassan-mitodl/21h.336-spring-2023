@@ -19,25 +19,25 @@ Through close examination of the emperor Augustus and his Julio-Claudian success
 
 ## Required Readings
 
-Suetonius, *Lives of the Caesars*, transl. C. Edwards (Oxford World’s Classics 2000). ISBN: ‎9780199537563. \[Preview with [Google Books](https://www.google.com/books/edition/Lives_of_the_Caesars/JsNxkG6Ai9sC?hl=en&gbpv=1)\]
+Suetonius, *Lives of the Caesars*, transl. C. Edwards (Oxford World’s Classics 2000). ISBN: ‎9780199537563. \[Preview with {{% resource_link "ffc33f21-6f92-4619-b478-02812294ce2e" "Google Books" %}}\]
 
-Tacitus, *The Annals*, transl. J.C. Yardley (Oxford World’s Classics 2008). ISBN: ‎9780192824219. \[Preview with [Google Books](https://www.google.com/books/edition/The_Annals/f4TuDWNmtFgC?hl=en&gbpv=1)\]
+Tacitus, *The Annals*, transl. J.C. Yardley (Oxford World’s Classics 2008). ISBN: ‎9780192824219. \[Preview with {{% resource_link "f4893df8-c395-465c-95a2-25c3ce11a17b" "Google Books" %}}\]
 
-Virgil, *The Aeneid*, transl. R. Fagles (Penguin Classics 2010). ISBN: ‎9780143106296. \[Preview with [Google Books](https://www.google.com/books/edition/The_Aeneid/KpJPEAAAQBAJ?hl=en&gbpv=1)\]
+Virgil, *The Aeneid*, transl. R. Fagles (Penguin Classics 2010). ISBN: ‎9780143106296. \[Preview with {{% resource_link "b5da8ffe-354c-49d8-8ef0-38c99a7b56e1" "Google Books" %}}\]
 
-E. Buckley and M.T. Dinter (eds.), *A Companion to the Neronian Age* (Wiley-Blackwell 2013). ISBN: ‎9781118316535. \[Preview with [Google Books](https://www.google.com/books/edition/A_Companion_to_the_Neronian_Age/8OgVKbssrT0C?hl=en&gbpv=1)\]
+E. Buckley and M.T. Dinter (eds.), *A Companion to the Neronian Age* (Wiley-Blackwell 2013). ISBN: ‎9781118316535. \[Preview with {{% resource_link "c7b39452-5d48-4c0c-bee6-2233def5f024" "Google Books" %}}\]
 
 For additional readings, see the {{% resource_link "d4810806-a858-4c41-b81c-19f56df4c68c" "Readings" %}} section.
 
 ## Recommended Online Resources
 
-[The Oxford Classical Dictionary](http://classics.oxfordre.com/), a scholarly and authoritative encyclopedia of all things ancient Greek and Roman.
+{{% resource_link "00f7448c-740e-4964-b0da-e2f1a30cbb95" "The Oxford Classical Dictionary" %}}, a scholarly and authoritative encyclopedia of all things ancient Greek and Roman.
 
-[The Loeb Classical Library Online](https://www.loebclassics.com/). The LCL has long been the go-to collection for reading English translations of ancient texts alongside the original Greek or Latin. Some LCL translations are now quite old and correspondingly stilted; but the collection is comprehensive and reliable.
+{{% resource_link "544dfb7f-4b26-4c5f-8fa2-cb5f4f9de8bf" "The Loeb Classical Library Online" %}}. The LCL has long been the go-to collection for reading English translations of ancient texts alongside the original Greek or Latin. Some LCL translations are now quite old and correspondingly stilted; but the collection is comprehensive and reliable.
 
-[LacusCurtius](http://penelope.uchicago.edu/Thayer/E/Roman/home.html). Many of the same texts appear on the LCL site, but here in a format that some will find more user-friendly. 
+{{% resource_link "518f9ae5-15fd-4b96-bbdd-889fd3cd0c7b" "LacusCurtius" %}}. Many of the same texts appear on the LCL site, but here in a format that some will find more user-friendly. 
 
-[JSTOR](https://www.jstor.org/). The Scholarly Journal Archive, including relevant classical studies and archaeology journals.
+{{% resource_link "1ce22dae-9056-452d-b0a0-ed3526115d2e" "JSTOR" %}}. The Scholarly Journal Archive, including relevant classical studies and archaeology journals.
 
 ## Assessment
 
